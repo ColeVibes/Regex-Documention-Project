@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Email Validation Regex Expression
 
 Introductory paragraph (replace this with your text)
 
